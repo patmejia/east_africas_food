@@ -1,7 +1,8 @@
 # Table of Content
 
+### images:
 ```
-docs/images
+
 ├── generated
 │   ├── global_undernourished.png
 │   ├── orgs_mission_wordcloud.png
@@ -22,15 +23,18 @@ docs/images
     ├── global_hunger_far_above_pre_covid_levels.png
     ├── global_number_food_insecurity.png
     ├── largest_currency_depreciation.png
+    ├── map-fies.pdf
+    ├── map-pou.pdf
     ├── primary_driver_of_food_insecurity.png
     ├── reginal_progress_towards_reducing_hunger.png
     ├── regional_food_insecurity_per_gender.png
     ├── top_food_insecured_territories.png
     ├── trading_2023_global_updated.png
+    ├── urbanization_affects_agrifood_diet.png
     ├── urbanization_as_driver_of_food_systems_transformation_opportunities_for_rural_livelihoods.png
     └── world_off_track_by_2030_projected_undernourishment.png
 
-3 directories, 25 files
+3 directories, 28 files
 
 ```
 
@@ -116,6 +120,10 @@ docs/images
 <img width="607" alt="world_off_track_by_2030_projected_undernourishment" src="https://github.com/patmejia/food_security/assets/92187562/d3001c3b-2a37-46b4-abbe-2e69a8e63594">
 
 
+![urbanization_affects_agrifood_diet](https://github.com/patmejia/food_security/assets/92187562/c272e991-08fa-408b-837a-823b3970d1c6)
 
 
-    
+[map-fies.pdf](https://github.com/patmejia/food_security/files/12386985/map-fies.pdf)
+
+[map-pou.pdf](https://github.com/patmejia/food_security/files/12386986/map-pou.pdf)
+
